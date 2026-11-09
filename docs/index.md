@@ -19,30 +19,41 @@ hide:
 
 - :material-notebook-outline: **[노트](notes/index.md)**
 
-    개념별 학습 노트
+    17개 개념 노트 (연습문제 + 정답 포함)
 
 - :material-flask-outline: **[실습](practice/index.md)**
 
-    직접 돌려본 코드와 실험
+    9개 실습 과제 (코드 + 과제 체크리스트)
 
 - :material-bookshelf: **[자료](resources/index.md)**
 
-    논문, 강의, 블로그 모음
+    논문, 강의, 책 모음
 
 </div>
 
-## 현재 학습 중
+## 학습 경로
 
-!!! info "Now"
-    **트랜스포머와 어텐션** — 논문 읽고 [노트](notes/transformer.md) 보강하는 중
+| 단계 | 주제 | 노트 | 실습 |
+|---|---|---|---|
+| **1** 기초 | 파이썬 데이터, 수학, 머신러닝 | [6개](notes/index.md) | 3개 |
+| **2** 딥러닝 | 역전파, PyTorch, CNN, RNN | [4개](notes/index.md) | 1개 |
+| **3** LLM | 토큰, 트랜스포머, 학습·추론, 프롬프트 | [4개](notes/index.md) | 2개 |
+| **4** 응용 | RAG, LoRA, 에이전트 | [3개](notes/index.md) | 3개 |
+
+## 시작하기
+
+1. [로드맵](roadmap.md)에서 현재 위치를 확인합니다.
+2. [1단계 첫 노트: NumPy](notes/01-numpy.md)부터 읽으며 코드를 직접 실행합니다.
+3. 연습문제를 풀고, 단계 끝의 [실습](practice/index.md)을 합니다.
+4. 배운 것은 `templates/note.md`로 내 말로 정리해서 노트를 추가합니다.
+
+## 학습 현황
+
+!!! info "지금 공부 중인 것"
+    여기에 현재 학습 중인 주제와 링크를 적으세요. 예: `**PyTorch 기초** — [노트](notes/08-pytorch.md)`
 
 ## 최근 노트
 
 | 날짜 | 노트 |
 |---|---|
-| 2026-11-09 | [트랜스포머](notes/transformer.md) |
-
-## 이 사이트를 쓰는 법
-
-- 새 노트는 `templates/note.md`를 복사해서 시작합니다.
-- 진행 상황은 [로드맵](roadmap.md)의 체크박스로 관리합니다.
+| | 학습 후 여기에 추가 |

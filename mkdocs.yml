@@ -79,11 +79,33 @@ nav:
           - 미분과 경사하강법: notes/04-calculus-gradient.md
           - 확률과 통계: notes/05-probability.md
           - 머신러닝 기초: notes/06-ml-basics.md
+      - 2단계 · 딥러닝:
+          - 신경망과 역전파: notes/07-backprop.md
+          - PyTorch 기초: notes/08-pytorch.md
+          - CNN: notes/09-cnn.md
+          - RNN과 어텐션의 등장: notes/10-rnn-attention.md
       - 3단계 · LLM:
+          - 토큰화와 임베딩: notes/11-tokenization-embedding.md
           - 트랜스포머: notes/transformer.md
+          - LLM의 학습과 추론: notes/12-llm-training.md
+          - 프롬프트 엔지니어링: notes/13-prompt-engineering.md
+      - 4단계 · 응용:
+          - RAG: notes/14-rag.md
+          - 파인튜닝과 LoRA: notes/15-finetuning-lora.md
+          - 에이전트와 도구 사용: notes/16-agents.md
   - 실습:
       - practice/index.md
-      - 경사하강법 선형 회귀: practice/gradient-descent.md
-      - Titanic 생존 예측: practice/titanic.md
-      - 과적합 실험: practice/overfitting.md
+      - 1단계:
+          - 경사하강법 선형 회귀: practice/gradient-descent.md
+          - Titanic 생존 예측: practice/titanic.md
+          - 과적합 실험: practice/overfitting.md
+      - 2단계:
+          - MNIST 분류기: practice/mnist-pytorch.md
+      - 3단계:
+          - Hugging Face로 LLM 만져보기: practice/hf-transformers.md
+          - 미니 GPT 학습: practice/mini-gpt.md
+      - 4단계:
+          - RAG 챗봇: practice/rag-chatbot.md
+          - LoRA 미세조정: practice/lora-finetune.md
+          - 도구 쓰는 에이전트: practice/tool-agent.md
   - 자료: resources/index.md
