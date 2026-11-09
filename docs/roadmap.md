@@ -6,19 +6,19 @@
 
 ### 파이썬 / 데이터
 - [ ] 파이썬 문법 — [점프 투 파이썬](https://wikidocs.net/book/1)
-- [ ] NumPy, Pandas — *Python for Data Analysis* (Wes McKinney)
-- [ ] **과제**: 공개 데이터셋(예: Titanic) 하나를 골라 결측치 처리와 시각화까지
+- [ ] NumPy, Pandas — [NumPy 노트](notes/01-numpy.md), [Pandas 노트](notes/02-pandas.md) / 참고서: *Python for Data Analysis*
+- [ ] **과제**: [Titanic 실습](practice/titanic.md)
 
 ### 수학
-- [ ] 선형대수 — 3Blue1Brown *Essence of Linear Algebra*
-- [ ] 미적분 / 연쇄법칙 — 3Blue1Brown *Essence of Calculus*
-- [ ] 확률·통계 기초 — Khan Academy
-- [ ] **과제**: 행렬곱과 경사하강법을 NumPy로 직접 구현
+- [ ] 선형대수 — [노트](notes/03-linear-algebra.md) + 3Blue1Brown *Essence of Linear Algebra*
+- [ ] 미적분 / 연쇄법칙 — [노트](notes/04-calculus-gradient.md) + 3Blue1Brown *Essence of Calculus*
+- [ ] 확률·통계 기초 — [노트](notes/05-probability.md) + Khan Academy
+- [ ] **과제**: [경사하강법 선형 회귀](practice/gradient-descent.md)
 
 ### 머신러닝 개념
-- [ ] Andrew Ng *Machine Learning Specialization* (Coursera)
+- [ ] [ML 기초 노트](notes/06-ml-basics.md) + Andrew Ng *Machine Learning Specialization* (Coursera)
 - [ ] scikit-learn으로 분류·회귀 한 번씩
-- [ ] **과제**: 과적합을 일부러 만들고 정규화로 해결해 보기
+- [ ] **과제**: [과적합 실험](practice/overfitting.md)
 
 ## 2단계 · 딥러닝 <small>(약 6~8주)</small>
 

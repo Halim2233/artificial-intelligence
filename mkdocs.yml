@@ -72,6 +72,18 @@ nav:
   - 로드맵: roadmap.md
   - 노트:
       - notes/index.md
-      - 트랜스포머: notes/transformer.md
-  - 실습: practice/index.md
+      - 1단계 · 기초:
+          - NumPy: notes/01-numpy.md
+          - Pandas: notes/02-pandas.md
+          - 선형대수: notes/03-linear-algebra.md
+          - 미분과 경사하강법: notes/04-calculus-gradient.md
+          - 확률과 통계: notes/05-probability.md
+          - 머신러닝 기초: notes/06-ml-basics.md
+      - 3단계 · LLM:
+          - 트랜스포머: notes/transformer.md
+  - 실습:
+      - practice/index.md
+      - 경사하강법 선형 회귀: practice/gradient-descent.md
+      - Titanic 생존 예측: practice/titanic.md
+      - 과적합 실험: practice/overfitting.md
   - 자료: resources/index.md
