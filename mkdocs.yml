@@ -1,8 +1,7 @@
 site_name: AI Lab
 site_description: 인공지능 공부 기록장
-# 배포 후 본인 주소로 바꾸세요: https://<아이디>.github.io/<저장소명>/
-site_url: ""
-repo_url: ""
+site_url: https://halim2233.github.io/artificial-intelligence/
+repo_url: https://github.com/Halim2233/artificial-intelligence
 
 theme:
   name: material
