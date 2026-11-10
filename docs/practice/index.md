@@ -13,6 +13,7 @@
 | 4 | [RAG 챗봇](rag-chatbot.md) | 청킹, 임베딩 검색, 평가 | RAG, 프롬프트 |
 | 4 | [LoRA 미세조정](lora-finetune.md) | PEFT, 전/후 비교 | 파인튜닝과 LoRA |
 | 4 | [도구 쓰는 에이전트](tool-agent.md) | 도구 설계, 에이전트 루프, 안전 | 에이전트 |
+| 4 | [MCP 서버와 에이전트 연결](mcp-agent.md) | MCP 서버 제작, 클라이언트 호출, API 연동 | MCP |
 
 ## 환경 준비
 

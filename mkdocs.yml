@@ -93,6 +93,7 @@ nav:
           - RAG: notes/14-rag.md
           - 파인튜닝과 LoRA: notes/15-finetuning-lora.md
           - 에이전트와 도구 사용: notes/16-agents.md
+          - MCP와 API 호출 구조: notes/17-mcp.md
   - 실습:
       - practice/index.md
       - 1단계:
@@ -108,4 +109,5 @@ nav:
           - RAG 챗봇: practice/rag-chatbot.md
           - LoRA 미세조정: practice/lora-finetune.md
           - 도구 쓰는 에이전트: practice/tool-agent.md
+          - MCP 서버와 에이전트 연결: practice/mcp-agent.md
   - 자료: resources/index.md

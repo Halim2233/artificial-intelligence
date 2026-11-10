@@ -38,6 +38,7 @@
 | 15 | [RAG](14-rag.md) | 청킹, 검색, 평가, 실패 대응 |
 | 16 | [파인튜닝과 LoRA](15-finetuning-lora.md) | 저랭크 적응, QLoRA, 데이터 |
 | 17 | [에이전트와 도구 사용](16-agents.md) | 루프, 도구 설계, 안전 |
+| 18 | [MCP와 API 호출 구조](17-mcp.md) | 호스트·클라이언트·서버, tool_use 루프, JSON-RPC |
 
 ## 공부 방법
 

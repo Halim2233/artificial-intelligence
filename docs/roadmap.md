@@ -60,6 +60,7 @@ flowchart LR
 - [ ] RAG — [노트](notes/14-rag.md) + [RAG 챗봇 실습](practice/rag-chatbot.md)
 - [ ] 파인튜닝 — [노트](notes/15-finetuning-lora.md) + [LoRA 실습](practice/lora-finetune.md)
 - [ ] 에이전트와 도구 사용 — [노트](notes/16-agents.md) + [에이전트 실습](practice/tool-agent.md)
+- [ ] MCP와 API 호출 구조 — [노트](notes/17-mcp.md) + [MCP 실습](practice/mcp-agent.md)
 - [ ] **과제**: 위 셋 중 하나를 골라 **평가셋까지 만들어** 개선 전/후를 수치로 비교
 
 !!! success "4단계 완료 기준"

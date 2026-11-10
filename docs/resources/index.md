@@ -44,6 +44,7 @@
 | 3 | The Illustrated Transformer (Jay Alammar) | <https://jalammar.github.io/illustrated-transformer/> |
 | 4 | Anthropic — Building effective agents | <https://www.anthropic.com/engineering/building-effective-agents> |
 | 4 | Claude API 문서 | <https://docs.claude.com/> |
+| 4 | MCP 공식 문서 | <https://modelcontextprotocol.io/> |
 | 4 | Hugging Face PEFT 문서 | <https://huggingface.co/docs/peft> |
 
 ## 도구

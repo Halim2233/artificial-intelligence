@@ -19,11 +19,11 @@ hide:
 
 - :material-notebook-outline: **[노트](notes/index.md)**
 
-    17개 개념 노트 (연습문제 + 정답 포함)
+    18개 개념 노트 (연습문제 + 정답 포함)
 
 - :material-flask-outline: **[실습](practice/index.md)**
 
-    9개 실습 과제 (코드 + 과제 체크리스트)
+    10개 실습 과제 (코드 + 과제 체크리스트)
 
 - :material-bookshelf: **[자료](resources/index.md)**
 
@@ -38,7 +38,7 @@ hide:
 | **1** 기초 | 파이썬 데이터, 수학, 머신러닝 | [6개](notes/index.md) | 3개 |
 | **2** 딥러닝 | 역전파, PyTorch, CNN, RNN | [4개](notes/index.md) | 1개 |
 | **3** LLM | 토큰, 트랜스포머, 학습·추론, 프롬프트 | [4개](notes/index.md) | 2개 |
-| **4** 응용 | RAG, LoRA, 에이전트 | [3개](notes/index.md) | 3개 |
+| **4** 응용 | RAG, LoRA, 에이전트, MCP | [4개](notes/index.md) | 4개 |
 
 ## 시작하기
 
