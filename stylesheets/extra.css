@@ -1,0 +1,9 @@
+.hero {
+  padding: 2.5rem 1.5rem;
+  margin: 0 0 2rem;
+  border-radius: 12px;
+  color: #fff;
+  background: linear-gradient(135deg, #5b3fd0 0%, #1f8fd6 100%);
+}
+.hero h1 { color: #fff; margin: 0 0 .5rem; font-weight: 700; }
+.hero p { margin: 0; font-size: 1.05rem; opacity: .92; }
